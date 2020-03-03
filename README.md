@@ -40,8 +40,6 @@ The populate "Create 500 entries" button allows a user to quickly add many entri
 ## Dependencies
 
 * Jquery CDN -  [jquery-3.4.1.min.js](https://code.jquery.com/jquery-3.4.1.min.js)
-## User Interface
-The form contains a single 
 
 ## Limitations
 
@@ -68,3 +66,7 @@ The form contains a single
 * After updating an item, the page shouldn't need to refresh. Last updated item could be highlighted temporarily.
 
 * Ability to change the number of items displayed per page. Drop down option.
+
+## Hosted
+
+[https://www.dominykas.dev/projects/PHANTOM%20Challenge/](https://www.dominykas.dev/projects/PHANTOM%20Challenge/index.html)
