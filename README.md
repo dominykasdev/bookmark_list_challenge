@@ -12,7 +12,7 @@ The app was unit tested by the author as part of the development process.
 
 The JavaScript was put through the Google Closure Compiler.
 
-##Functionality 
+## Functionality 
 
 A single text input and input button is used to submit a new entry.
 
