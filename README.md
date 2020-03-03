@@ -1,10 +1,10 @@
-#Bookmark List Challenge
+# Bookmark List Challenge
 
-##Author
+## Author
 
 Dominykas Genys
 
-##Description
+## Description
 
 This web app was created for the purpose of saving working links through a form and displaying it on screen in a list. Items are saved locally and do not need an external database. Each item can be removed or edited to change the url. The list is paginated to only display up to 20 links at a time.
 
@@ -30,20 +30,20 @@ The populate "Create 500 entries" button allows a user to quickly add many entri
 
 "Clear all" button is there to remove all entries instantly. Also for convenience.
 
-##Technology
+## Technology
 
 * HTML
 * CSS
 * JavaScript (Es6)
 * JQuery
 
-##Dependencies
+## Dependencies
 
 * Jquery CDN -  [jquery-3.4.1.min.js](https://code.jquery.com/jquery-3.4.1.min.js)
-##User Interface
+## User Interface
 The form contains a single 
 
-##Limitations
+## Limitations
 
 * The currently implemented Ajax call to validate a submitted url only works on the hosted domain (https://dominykas.dev). All other domains are blocked by cross domain policy (CORS). The request considers it a success as the request.status results in 0 and  not 404.
 
@@ -57,7 +57,7 @@ The form contains a single
 
 * Not supported in I.E. due to es6 JavaScript used.
 
-##Improvements
+## Improvements
 
 * Using a back end language to validate submitted web page availability properly.
 
